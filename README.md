@@ -1,0 +1,2 @@
+# password-generator
+This simple project was created to test my ability and understanding of the tkinter package for Python. The GUI application allows a user to generate a random password with the option to exclude special characters or numbers as well as an option to change the minimum length of a generated password. The executable is included with this project so it can be individually downloaded and tested.
