@@ -1,4 +1,3 @@
-```markdown
 # Password Generator
 
 A simple password generator created with Python and tkinter.
